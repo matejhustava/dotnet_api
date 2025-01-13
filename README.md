@@ -1,4 +1,4 @@
-# Dotnet api project.
+# Dotnet API project.
 
 API to:
   - Read, add, edit, delete User in DB
